@@ -219,7 +219,7 @@ Classroom work time is 3-4 hours per week. Homework expectations are approximate
 
 ## Computer Science Principles 1,2 and Data Structures 1; Grades 10-12
 >
-> Computer Science Principles is designed as a college-level introduction to computer science. The AP Computer Science Principles curriculum is integrated into this course, covering creative development, data, algorithms and programming, computer systems and networks, and the impact of computing. Students will work on individual and team projects to build computer systems, write algorithms, analyze for correctness, and engage in discussions about solutions. The course will establish fluency in Python, utilize prerequisite knowledge in JavaScript, and develop fluency in Linux.
+> Lalita Narayanan is Computer Science Principles student. It is designed as a college-level introduction to computer science. The AP Computer Science Principles curriculum is integrated into this course, covering creative development, data, algorithms and programming, computer systems and networks, and the impact of computing. Students will work on individual and team projects to build computer systems, write algorithms, analyze for correctness, and engage in discussions about solutions. The course will establish fluency in Python, utilize prerequisite knowledge in JavaScript, and develop fluency in Linux.
 
 - Prerequisites:
   - rising 10th graders: Computer Science and Software Engineering (CSSE)
